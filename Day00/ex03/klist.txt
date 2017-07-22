@@ -1,0 +1,9 @@
+
+Credentials cache: API:F46A410E-014F-49E0-9B63-7A9192AA50EF
+        Principal: mescande@42.FR
+
+  Issued                Expires               Principal
+Jul  4 09:00:23 2017  Jul 11 09:00:23 2017  krbtgt/42.FR@42.FR
+Jul  4 09:00:24 2017  Jul 11 09:00:23 2017  ldap/ldap-proxy.42.fr@42.FR
+Jul  4 09:00:24 2017  Jul 11 09:00:23 2017  HTTP/student-storage-1.42.fr@42.FR
+Jul  4 09:31:49 2017  Jul 11 09:00:23 2017  host/vgs-fn1.42.fr@42.FR
